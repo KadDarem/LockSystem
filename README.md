@@ -2,10 +2,10 @@
 
 A little script to lock and unlock your vehicle. You can lock only one vehicle.
 
-**Utilisation :**   
+**How to use ?**   
 Press **U** to lock/unlock.  
 Press **U** to reset your key.   
 
-**Installation :**  
+**How to install ?**  
 Add LockSystem in your resource folder  
 Add "start LockSystem" in your config file  
